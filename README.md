@@ -47,4 +47,3 @@ I am a Junior Web Developer from Luxembourg.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sviatoslav44&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sviatoslav44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
