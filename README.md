@@ -7,9 +7,7 @@
   <a href="https://www.upwork.com/freelancers/~0139c6b2bb0feeaf82">
     <img src="https://img.shields.io/badge/UpWork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork Badge"/>
   </a>
-  <a href="https://t.me/Just_Top_G">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+ 
 </div>
 <img src="https://komarev.com/ghpvc/?username=Sviatoslav44&style=flat-square&color=blue" alt=""/>
 <h1>
