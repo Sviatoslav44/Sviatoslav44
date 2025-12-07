@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior Web Developer from Luxembourg.
+Mz name is Slava. I am a Web Developer from Luxembourg.
 - :telescope: I’m working as a web developer and contributing to frontend for building sites or web applications.
 
 - :seedling: Exploring Technical Content Writing.
